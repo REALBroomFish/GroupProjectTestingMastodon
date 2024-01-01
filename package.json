@@ -1,0 +1,27 @@
+{
+  "name": "group-project-work",
+  "version": "0.0.1",
+  "description": "Attempting to gain Mastodon Data using API, makes use of mastodon-api by vanita5 on github",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REALBroomFish/GroupProjectTestingMastodon.git"
+  },
+  "keywords": [
+    "mastodon",
+    "api",
+    "access"
+  ],
+  "author": "Connor Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/REALBroomFish/GroupProjectTestingMastodon/issues"
+  },
+  "homepage": "https://github.com/REALBroomFish/GroupProjectTestingMastodon#readme",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
+}
